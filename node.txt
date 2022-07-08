@@ -1,2 +1,7 @@
+Base directory
+
+Build command
 npm run build
-dist
+
+Publish directory
+dist/
