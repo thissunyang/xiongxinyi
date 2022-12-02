@@ -1,1 +1,18 @@
-一个可爱的搞笑女
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>小熊的自我介绍</title>
+		<style type="text/css">
+			div{
+				width: 100%;
+				height: 100%;
+				background-image: test.png;
+				background-repeat: repeat;
+			}
+		</style>
+	</head>
+	<body><div>
+		<h3 style="color: cornflowerblue;"><b>一个可爱的搞笑女</b></h3>
+	</body></div>
+</html>
