@@ -1,7 +1,1 @@
-Base directory
-
-Build command
-npm run build
-
-Publish directory
-dist/
+一个可爱的搞笑女
