@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -5,14 +6,14 @@
 		<title>小熊的自我介绍</title>
 		<style type="text/css">
 			div{
-				width: 100%;
-				height: 100%;
-				background-image: test.png;
-				background-repeat: repeat;
+				
 			}
 		</style>
 	</head>
-	<body><div>
-		<h3 style="color: cornflowerblue;"><b>我的名字叫熊馨怡，来自美丽的山城重庆。是深圳大学2022级的新生，来自艺术学部音乐舞蹈学院舞蹈编导专业。</b></h3>
+	<body style="background-color:rgba(255,200,255,0.2);"><div>
+		
+		<h1 style="text-align: center;">小熊的自我介绍</h1>
+		<p style="text-align: center; color: cornflowerblue;"><font size="5">我的名字叫熊馨怡，来自美丽的山城重庆。</font></p>
+		<p style="text-align: center; color: cornflowerblue;"><font size="5">深圳大学2022级的新生，来自艺术学部音乐舞蹈学院舞蹈编导专业。</font></p>
 	</body></div>
 </html>
