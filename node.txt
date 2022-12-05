@@ -13,6 +13,6 @@
 		</style>
 	</head>
 	<body><div>
-		<h3 style="color: cornflowerblue;"><b>一个可爱的搞笑女</b></h3>
+		<h3 style="color: cornflowerblue;"><b>我的名字叫熊馨怡，来自美丽的山城重庆。是深圳大学2022级的新生，来自艺术学部音乐舞蹈学院舞蹈编导专业。</b></h3>
 	</body></div>
 </html>
